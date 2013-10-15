@@ -1,0 +1,148 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/brown" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="32dip"
+        android:paddingTop="70dip" >
+
+        <LinearLayout
+            android:layout_width="260dip"
+            android:layout_height="100dip"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/rice_btn"
+                android:layout_width="126dip"
+                android:layout_height="96dip"
+                android:background="#5CACEE"
+                android:gravity="bottom|right"
+                android:text="@string/rice"
+                android:textColor="#FFFFFF"
+                android:textSize="35dip" >
+            </Button>
+
+            <Button
+                android:id="@+id/stir_btn"
+                android:layout_width="126dip"
+                android:layout_height="96dip"
+                android:layout_marginLeft="4dip"
+                android:background="#EEC900"
+                android:gravity="bottom|left"
+                android:text="@string/stir"
+                android:textColor="#FFFFFF"
+                android:textSize="35dip" >
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="260dip"
+            android:layout_height="100dip"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/noodle_btn"
+                android:layout_width="126dip"
+                android:layout_height="96dip"
+                android:background="@color/blue"
+                android:gravity="top|right"
+                android:text="@string/noodle"
+                android:textColor="#FFFFFF"
+                android:textSize="35dip" >
+            </Button>
+
+            <Button
+                android:id="@+id/beverage_btn"
+                android:layout_width="126dip"
+                android:layout_height="96dip"
+                android:layout_marginLeft="4dip"
+                android:background="#66CD00"
+                android:gravity="top|left"
+                android:text="@string/beverage"
+                android:textColor="#FFFFFF"
+                android:textSize="35dip" >
+            </Button>
+        </LinearLayout>
+        
+		<LinearLayout
+            android:layout_width="260dip"
+            android:layout_height="100dip"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/cart_btn"
+                android:layout_width="126dp"
+                android:layout_height="96dip"
+                android:background="#CD96CD"
+                android:gravity="top|center_horizontal"
+                android:text="@string/cart"
+                android:textColor="#FFFFFF"
+                android:textSize="35dip" >
+            </Button>
+
+            <Button
+                android:id="@+id/like_btn"
+                android:layout_width="126dip"
+                android:layout_height="96dip"
+                android:layout_marginLeft="4dip"
+                android:background="@color/red"
+                android:gravity="top|center_horizontal"
+                android:text="@string/like"
+                android:textColor="#FFFFFF"
+                android:textSize="35dip" >
+            </Button>
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="260dip"
+            android:layout_height="61dip"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+            
+            <Button
+                android:id="@+id/logon_btn"
+                android:layout_width="126dp"
+                android:layout_height="61dip"
+                android:background="#FFFFFF"
+                android:gravity="top|center_horizontal"
+                android:text="@string/logon"
+                android:textColor="#000000"
+                android:textSize="20dip" >
+            </Button>
+
+            <Button
+                android:id="@+id/feedback_btn"
+                android:layout_width="61dip"
+                android:layout_height="61dip"
+                android:layout_marginLeft="4dip"
+                android:background="#FFFFFF"
+                android:gravity="top|left"
+                android:text="@string/feedback"
+                android:textColor="#000000"
+                android:textSize="20dip" >
+            </Button>
+
+            <Button
+                android:id="@+id/aboutus_btn"
+                android:layout_width="61dip"
+                android:layout_height="61dip"
+                android:layout_marginLeft="3dip"
+                android:background="#FFFFFF"
+                android:gravity="top|left"
+                android:text="@string/aboutus"
+                android:textColor="#000000"
+                android:textSize="20dip">
+            </Button>
+		</LinearLayout>
+		
+	</LinearLayout>
+</RelativeLayout>
