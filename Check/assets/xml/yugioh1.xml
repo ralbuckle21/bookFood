@@ -1,0 +1,363 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<paper>
+	<profile>
+		<title>游戏王高手测试</title>
+		<totalTime>60</totalTime>
+		<totalScore>150</totalScore>
+		<subjectCount>13</subjectCount>
+		<passingScore>90</passingScore>
+		<descriptions>收录经典错过时点试题</descriptions>
+		<creator>zqhe</creator>
+		<fileId>200001</fileId>
+	</profile>
+	  <subjects>		
+		<subject>
+			<index>1</index>
+			<type>1</type>
+			<value>20</value>
+			<image>null</image>
+			<subjectContent>下列说法正确的是：</subjectContent>
+			<analysis>攻宣并不是此类效果的共同点，共同点在于它们支付COST后并不需要处理效果，因为“需要…才能进行攻击宣言”这类效果是属于永续效果, 「暴君的威压」的陷阱效果不是永续效果“，发动「暴君的威压」这张卡而解放「抽卡青蛙」”而非“「暴君的威压」的永续效果COST而解放「抽卡青蛙」”</analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A：「霞之谷的猎鹰」将场上表侧表示的「于贝尔-被憎恶的骑士」作为COST回到手卡，此时可以发动「于贝尔-被憎恶的骑士」的效果特殊召唤「于贝尔-极度悲伤的魔龙」。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B：「漆黑之豹战士」解放「抽卡青蛙」，而后攻击宣言。此时可以发动「抽卡青蛙」的效果，抽卡。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>C：「三头毒蛇」解放「抽卡青蛙」，而后攻击宣言。此时可以发动「抽卡青蛙」的效果，抽卡。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>D：「暴君的威压」发动的时候解放一体「抽卡青蛙」,抽卡。</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>现在卡组洗切再也不算是会占时点的一个动作了</subjectContent>
+			<analysis>发动「愚蠢的埋葬」丢掉卡组里的「暗道化师 彼得」，「暗道化师 彼得」不会因效果错过时点不可发动。</analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A：正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B：错误</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>?Chain 1发动「齿车街」 Chain 2「旋风」指定「齿车街」发动 逆算过后，Chain 2破坏的「齿车街」由于有Chain 1要处理，所以「齿车街」效果不能发动	</subjectContent>
+			<analysis>C2旋风破坏齿车街之后，符合齿车街发动特殊召唤效果的条件，但是此时还要处理C1的“发动齿车街”，所以齿车街的效果错过时点不能发动 </analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+				
+			</answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> Chain 1发动「齿车街」   Chain 2「魔宫的贿赂」处理，无效「齿车街」的发动并破坏之（同时抽卡）,「齿车街」效果不能发动</subjectContent>
+			<analysis>由于发动被无效了，于是整个Chain就都不处理了. Chain 1整个被无效，直接消失，于是可以发动「齿车街」的效果</analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>1</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> A场上有三体里侧守备的雷光，此时为A的回合 分别为abc。B场有三体里侧守备的雪人食人怪Ⅰ、Ⅱ、Ⅲ。
+			若由A玩家先发动沙漠之光，B玩家连锁发动另外一张沙漠之光，以下最终结果正确是</subjectContent>
+			<analysis>C1玩家B沙漠光，C2玩家A沙漠光，逆顺处理过后全场怪表侧存在。C1C2C3是A的雷光，具体哪只哪个CHAIN发动，控制者自己选择。C4C5C6是B的雪人，控制者自己排序。逆算过后，</analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>全场怪死，A丢9张卡。 </content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B场怪全死，A丢9张卡。 </content>
+				</answer>
+		
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A场怪全死，A不用丢卡。 </content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>里侧守备怪兽在沙漠之光之下不能发动效果 </content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 对手战阶时发动[魔法礼帽]，再发动[血代]效果解放出神兽王,[神兽王]效果发动炸对方场</subjectContent>
+			<analysis>魔法礼帽盖放卡是陷阱属性,神兽王献怪炸场效果不符合条件</analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 血代与“上级召唤作为诱发条件”的强制发动的诱发效果可配合，如大部分的帝，可避开激流奈落时点,并新开连锁 </subjectContent>
+			<analysis><![CDATA[  <a href="ID:5083">卡查搜索血代</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 关于心灵崩坏的说法正确的是：</subjectContent>
+			<analysis><![CDATA[  <a href="ID:1259">卡查搜索血代</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．由于有明确的宣言卡名效果，所以该效果是取对象效果。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．由于宣言卡在对手手牌有一定几率不存在，所以不视为取对象效果。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>C．视情况而定，宣言卡存在对手手牌时视为取对象效果，不存在时视为不取对象效果。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>D．以上说法均不正确。</content>
+				</answer>
+				
+			</answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 场上存在次元裂缝和技能吸收的场合，下列可以发动效果的是:</subjectContent>
+			<analysis><![CDATA[  <a href="ID:3161">孤火花</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．卡片炮击士</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．星见兽。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>C．孤火花。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>D．硬绑龙。</content>
+				</answer>
+				
+			</answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>1</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 以下可以诱发三眼效果的有： </subjectContent>
+			<analysis><![CDATA[  <a href="ID:417">三眼怪</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．XYZ怪兽将三眼怪作为素材剔除</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．召唤三眼时被神之警告。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>C．对方召唤邪帝指定三眼时，我方发动激流葬。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>D．将三眼从手牌作融合索材丢弃到墓地</content>
+				</answer>
+				
+			</answers>
+		</subject>
+		<subject>
+			<index>11</index>
+			<type>1</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 下列可以诱发自己手牌暗黑界武神的第二（破卡）效果 </subjectContent>
+			<analysis><![CDATA[  <a href="ID:1718">暗黑界武神</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．自己变形壶反转。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．自己的心灵崩坏未能宣言成功。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>C．暗之引取成功改变对手魔法卡效果。</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>D．强制转移给对手的再造的死神，并战斗破坏它。</content>
+				</answer>
+				
+			</answers>
+		</subject>
+		<subject>
+			<index>12</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 当我方空场受到下列何种情况时，冥府的特殊召唤效果不能被弹压无效。 </subjectContent>
+			<analysis><![CDATA[  <a href="ID:2079">冥府</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．记忆破坏者。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．死亡流量。</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>C．隐形鸟反转召唤</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>D．火灵术-红。</content>
+				</answer>
+				
+			</answers>
+		</subject>
+		<subject>
+			<index>13</index>
+			<type>0</type>
+			<value>20</value>
+			<image>null</image>
+			<subjectContent>召唤「装傻负鼠」，符合条件的情况下发动效果破坏自身。在这个破坏成功后的时点，以下连锁：正确是</subjectContent>
+			<analysis> 某些“诱发效果”不能在同一符合条件的时点上复数发动，一般情况下是指比较复杂的“手牌诱发”型效果</analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A． Chain 1「机皇帝 神智∞」 Chain 2「同路人」 </content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．Chain 1「机皇帝 神智∞」Chain 2「机皇帝 神智∞」 </content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>C．Chain 1「机皇帝 神智∞」Chain 2「森之番人 绿狒狒」</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>D．A． Chain 1「森之番人 绿狒」 Chain 2「机皇帝 神智∞」</content>
+				</answer>
+			</answers>
+		</subject>
+	</subjects>
+</paper>

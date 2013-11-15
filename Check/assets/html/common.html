@@ -1,0 +1,39 @@
+<html>
+<title>资讯内容</title>
+<body>
+<head>
+<style>
+body {
+  background-color: white;
+  color: black;
+  font-family: arial;
+  font-size: 16;
+}
+span {
+	color: red;
+	font-weight:bold;
+}
+#mainbottomonebul {
+ PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 500px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; HEIGHT: 30px; TEXT-ALIGN: left
+}
+#mainbottomonebul LI {
+ FLOAT: left; MARGIN: 0px 10px; LINE-HEIGHT: 24px; HEIGHT: 24px; TEXT-ALIGN: center
+}
+</style>
+<script language="javascript">
+	function initData() {
+		document
+			.getElementById("pageTitle")
+			.innerHTML=customHelp.getTitleName();	
+			
+			document
+			.getElementById("pagecontext")
+			.innerHTML=customHelp.getContext();				
+	}
+</script>
+</head>
+<body onLoad="initData()">
+<strong><font color="red"><font size="3"><h3><center><span id="pageTitle">通用标题</span></center></h3></font></font></strong>
+<p align="left"><span id="pagecontext">资讯内容</span></p>
+</body>
+</html>

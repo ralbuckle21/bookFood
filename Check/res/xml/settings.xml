@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:title="@string/settings"
+	>
+	<PreferenceCategory
+		android:title="@string/set_application"
+		>
+		<com.teacher.android.config.PureListPreference
+			android:entries="@array/entry_name"
+			android:title="@string/pref_home"
+			android:key="@string/id_home"
+			android:defaultValue="0"
+			android:dialogTitle="@string/pref_home"
+			android:negativeButtonText="@string/cancel"
+			android:entryValues="@array/entry_value"
+			>
+		</com.teacher.android.config.PureListPreference>
+		<com.teacher.android.config.PureCheckBoxPreference
+			android:title="@string/pref_update"
+			android:key="@string/id_update"
+			android:defaultValue="true"
+			android:summaryOn="@string/pref_update_son"
+			android:summaryOff="@string/pref_update_soff"
+			>
+		</com.teacher.android.config.PureCheckBoxPreference>
+	</PreferenceCategory>
+	<PreferenceCategory
+		android:title="@string/set_system"
+		>
+		<com.teacher.android.config.PurePreference
+			android:title="@string/pref_fit"
+			android:key="@string/id_fit"
+			>
+		</com.teacher.android.config.PurePreference>
+	</PreferenceCategory>
+</PreferenceScreen>

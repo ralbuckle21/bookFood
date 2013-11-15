@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/white"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	<RelativeLayout
+		android:id="@+id/layUpdateTop"
+		android:background="@drawable/bottombar"
+		android:layout_width="fill_parent"
+		android:layout_height="48.0dip"
+		>
+		<Button
+			android:textSize="11.0dip"
+			android:textColor="@color/white"
+			android:id="@+id/btnUpdateLeft"
+			android:background="@drawable/button_style"
+			android:layout_width="48.0dip"
+			android:layout_height="32.0dip"
+			android:layout_marginLeft="4.0dip"
+			android:text="@string/back"
+			android:layout_centerVertical="true"
+			>
+		</Button>
+		<TextView
+			android:textSize="20.0dip"
+			android:textColor="@color/white"
+			android:gravity="center"
+			android:id="@+id/tvUpdatePageName"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_marginRight="36.0dip"
+			android:text="@string/page_update"
+			android:layout_toRightOf="@+id/btnLeft"
+			>
+		</TextView>
+	</RelativeLayout>
+	<include
+		layout="@layout/lay_update"
+		>
+	</include>
+</RelativeLayout>

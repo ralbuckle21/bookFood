@@ -1,0 +1,76 @@
+create  database manage;
+use manage;
+create table Admin(
+	AdminId int auto_increment primary key,
+	LoginName varchar(50),
+	LoginPwd varchar(50)
+);
+
+create table Deliver(
+	DeliverId int auto_increment primary key,
+	UserName varchar(50),
+	Address varchar(255),
+	Telephone varchar(20),
+	OrderTime varchar(50),
+	OrderState varchar(20),
+	OrderPrice double
+);
+create table OrderItem(
+	ItemId int auto_increment primary key,
+	DeliverId int,
+	DishName varchar(50),
+	DishCount int
+);
+create table Dish(
+	DishId int auto_increment primary key,
+	DishName varchar(50),
+	DishSeries varchar(50),
+	DishImg varchar(100),
+	DishPrice double
+);
+create table Feedback(
+	MsgId int auto_increment primary key,
+	SendNote varchar(1024),
+	SendTime varchar(100)
+);
+create table User(
+	UserId int auto_increment primary key,
+	UserName varchar(50),
+	Password varchar(50),
+	UserState varchar(50)
+);
+
+insert into Admin(LoginName,LoginPwd) values('admin','000000');
+select * from Admin;
+
+insert into Deliver 
+values('','杨晨浩','4公寓101','15145106805','2012-09-20 14:08:08','等待送餐',16);
+insert into Deliver 
+values('','何家琪','4公寓104','13613649185','2012-09-21 15:28:12','等待送餐',18);
+insert into Deliver
+values('','潘柯宇','4公寓103','15204509724','2012-09-21 15:28:11','等待送餐',12);
+select * from Deliver;
+
+insert into OrderItem values('',1,'客家小炒',2);
+insert into OrderItem values('',1,'青椒肉片',1);
+insert into OrderItem values('',2,'板栗仔鸡',2);
+insert into OrderItem values('',2,'糖醋排骨',1);
+insert into OrderItem values('',3,'客家小炒',2);
+select * from OrderItem;
+insert into Dish values('','客家小炒','小炒','DishImg/01.jpg',6);
+insert into Dish values('','糖醋排骨','小炒','DishImg/02.jpg',8);
+insert into Dish values('','板栗仔鸡','小炒','DishImg/03.jpg',5);
+insert into Dish values('','青椒肉片','小炒','DishImg/04.jpg',4);
+select * from Dish;
+insert into Feedback values('',1,'饭菜太贵了太贵了呀，必须降价。','2012-9-21');
+insert into Feedback values('',2,'饭菜太贵了太贵了呀+1','2012-9-22');
+insert into Feedback values('',3,'饭菜太贵了太贵+2','2012-9-23');
+select * from Feedback;
+
+insert into User values('','alec','123123','正常');
+insert into User values('','ryan','123123','正常');
+insert into User values('','panpan','123123','禁用');
+select * from User;
+
+
+

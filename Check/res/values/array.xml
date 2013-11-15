@@ -1,0 +1,12 @@
+<resources>
+	<string-array name="entry_name">
+        <item>Pittsburgh</item>
+        <item>Allentown/Bethlehem</item>
+        <item>Erie</item>
+    </string-array>
+    <string-array name="entry_value">
+        <item>PHL</item>
+        <item>PIT</item>
+        <item>ABE</item>
+    </string-array>
+</resources>

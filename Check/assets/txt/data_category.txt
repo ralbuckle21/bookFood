@@ -1,0 +1,22 @@
+﻿{
+  types: [
+    {
+      cate: 1, 
+      name: "益智桌游类", 
+      items: "游戏王,三国杀",  
+      file:"zexal,Threekilled"    
+    },
+    {
+      cate: 2, 
+      name:  "生活百科类", 
+      items: "生活常识,生活饮食,知识竞赛,交通规则",
+      file:  "life,diet,lifetaboo,traffic_rules"
+    },
+    {
+      cate: 3, 
+      name: "趣味知识类", 
+      items: "语文,数学,英语,地理,化学,物理,生物,政治,历史,美术,体育,计算机",
+      file:"Chinese,mathematics,English,chemistry,physics,geography,biology,politics,history,art,sports,computer"
+    } 
+  ]
+}

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<table>
+	<row>
+		<_id>2</_id>
+		<CardID>2</CardID>
+		<CardPhAl>null</CardPhAl>
+		<CardCamp>OCG、TCG</CardCamp>
+		<JPCardName>黒衣の大賢者</JPCardName>
+		<SCCardName>黑衣大贤者</SCCardName>
+		<TCCardName>黑衣大賢者</TCCardName>
+		<ENCardName>Dark Sage</ENCardName>
+		<ENCardName2>DARK SAGE</ENCardName2>
+		<JPCardType>null</JPCardType>
+		<SCCardType>效果怪兽</SCCardType>
+		<TCCardType>效果怪獸</TCCardType>
+		<ENCardType>Monster·Effect</ENCardType>
+		<JPDCardType>null</JPDCardType>
+		<SCDCardType>null</SCDCardType>
+		<TCDCardType>null</TCDCardType>
+		<ENDCardType>null</ENDCardType>
+		<JPCardRace>null</JPCardRace>
+		<SCCardRace>魔法师</SCCardRace>
+		<TCCardRace>魔法師</TCCardRace>
+		<ENCardRace>Spellcaster</ENCardRace>
+		<CardBagNum>BE01，DL01，其他</CardBagNum>
+		<JPCardAttribute>null</JPCardAttribute>
+		<SCCardAttribute>暗</SCCardAttribute>
+		<TCCardAttribute>闇</TCCardAttribute>
+		<ENCardAttribute>Dark</ENCardAttribute>
+		<CardStarNum>9</CardStarNum>
+		<SCCardRare>立体UTR，金字UR，银碎SER</SCCardRare>
+		<TCCardRare>立體UTR，金字UR，銀碎SER</TCCardRare>
+		<ENCardRare>UTR，UR，SER</ENCardRare>
+		<CardAtk>2800</CardAtk>
+		<CardAtk2>2800</CardAtk2>
+		<CardDef>3200</CardDef>
+		<CardDef2>3200</CardDef2>
+		<JPCardDepict><![CDATA[ このカードは通常召喚できない。「時の魔術師」の効果成功時、フィールド上の「ブラック?マジシャン」１体を生け贄に捧げる事で、手札またはデッキからこのモンスター１体を特殊召喚する。その時、デッキから魔法カードを１枚選択して手札に加え、デッキをシャッフルする。]]></JPCardDepict>
+		<SCCardDepict><![CDATA[ 这张卡不能通常召唤。猜中自己的「时间魔术师」的掷硬币效果时，可以把自己场上存在的1只「黑魔术师」解放从手卡或者卡组中特殊召唤。这个方法特殊召唤成功时，从自己卡组把1张魔法卡加入手卡。]]></SCCardDepict>
+		<TCCardDepict><![CDATA[ 這張卡不能通常召喚。猜中自己的「時間魔術師」的擲硬幣效果時，可以把自己場上存在的1隻「黑魔術師」解放從手卡或者卡組中特殊召喚。這個方法特殊召喚成功時，從自己卡組把1張魔法卡加入手卡。]]></TCCardDepict>
+		<ENCardDepict><![CDATA[ This card cannot be Normal Summoned or Set. This card can only be Special Summoned from your hand or your Deck by Tributing 1 "Dark Magician" on your side of the field when you succeed in the effect of "Time Wizard". At that time, select 1 Spell Card from your Deck, add it to your hand, and then shuffle your Deck.]]></ENCardDepict>
+		<SCCardBan>无限制</SCCardBan>
+		<TCCardBan>無限制</TCCardBan>
+		<ENCardBan>Normal</ENCardBan>
+		<CardIsYKDT>0</CardIsYKDT>
+		<CardIsTKEN>0</CardIsTKEN>
+		<CardIsCZN>False</CardIsCZN>
+		<CardPass>92377303</CardPass>
+		<CardAdjust><![CDATA[ [黑衣的大贤者]
+	<黒衣の大賢者>
+	[2011/03/01]
+	●这张卡不能通常召唤。「時の魔術師/時の魔術師」效果成功时，可以用场上的「黑魔术师」做祭品，从手卡或卡组特殊召唤一只这只怪兽。
+	◇无种类效果（不进入连锁）。
+	◇这张卡不能通常召唤。
+	◇完整正规特殊召唤程序后可以用其他效果特殊召唤。
+	★因为「時の魔術師/時の魔術師」的效果将「三眼怪/クリッター」等破坏时，这张卡能否特殊召唤，调整中。
+	★能否使用里侧表示的「黑魔术师/ブラック·マジシャン」做祭品，调整中。
+	●这个时候，从卡组选择一张魔法卡，加入手卡，之后卡组洗切。
+	◇诱发效果（进入连锁）。
+	◇强制发动。
+	◇不取对象效果。]]>
+		</CardAdjust>
+		<CardLover>0</CardLover>
+		<CardUnion>2,144,413</CardUnion>
+		<CardOnceName>黑衣的大贤者</CardOnceName>
+		<CardAbbrName>null</CardAbbrName>
+		<CardEfficeType>18,30,31</CardEfficeType>
+	</row>
+	<row>
+		<_id>4</_id>
+		<CardID>4</CardID>
+		<CardPhAl>null</CardPhAl>
+		<CardCamp>OCG、TCG</CardCamp>
+		<JPCardName>デーモンの斧</JPCardName>
+		<SCCardName>恶魔之斧</SCCardName>
+		<TCCardName>惡魔之斧</TCCardName>
+		<ENCardName>Axe of Despair</ENCardName>
+		<ENCardName2>AXE OF DESPAIR</ENCardName2>
+		<JPCardType>null</JPCardType>
+		<SCCardType>装备魔法</SCCardType>
+		<TCCardType>裝備魔法</TCCardType>
+		<ENCardType>Spell·Equip</ENCardType>
+		<JPDCardType>null</JPDCardType>
+		<SCDCardType>null</SCDCardType>
+		<TCDCardType>null</TCDCardType>
+		<ENDCardType>null</ENDCardType>
+		<JPCardRace>null</JPCardRace>
+		<SCCardRace>null</SCCardRace>
+		<TCCardRace>null</TCCardRace>
+		<ENCardRace>null</ENCardRace>
+		<CardBagNum>BE01，MR，DL01，DT04，JY</CardBagNum>
+		<JPCardAttribute>null</JPCardAttribute>
+		<SCCardAttribute>null</SCCardAttribute>
+		<TCCardAttribute>null</TCCardAttribute>
+		<ENCardAttribute>null</ENCardAttribute>
+		<CardStarNum>0</CardStarNum>
+		<SCCardRare>面闪SR，平卡N，银字R</SCCardRare>
+		<TCCardRare>面閃SR，平卡N，銀字R</TCCardRare>
+		<ENCardRare>SR，N，R</ENCardRare>
+		<CardAtk>0</CardAtk>
+		<CardAtk2>null</CardAtk2>
+		<CardDef>0</CardDef>
+		<CardDef2>null</CardDef2>
+		<JPCardDepict><![CDATA[ 装備したモンスターの攻撃力は１０００ポイントアップする。このカードがフィールドから墓地に送られた時、モンスター１体を生け贄に捧げればデッキの一番上に戻る。]]></JPCardDepict>
+		<SCCardDepict><![CDATA[ 装备怪兽的攻击力上升1000。这张卡从场上送去墓地时，可以把自己场上存在的1只怪兽解放这张卡回到卡组最上方。]]></SCCardDepict>
+		<TCCardDepict><![CDATA[ 裝備怪獸的攻擊力上升1000。這張卡從場上送去墓地時，可以把自己場上存在的1隻怪獸解放這張卡回到卡組最上方。]]></TCCardDepict>
+		<ENCardDepict><![CDATA[ Increase the ATK of a monster equipped with this card by 1000 points. When this card is sent from the field to the Graveyard, if you Tribute 1 monster on your side of the field, this card returns to the top of your Deck.]]></ENCardDepict>
+		<SCCardBan>无限制</SCCardBan>
+		<TCCardBan>無限制</TCCardBan>
+		<ENCardBan>Normal</ENCardBan>
+		<CardIsYKDT>2</CardIsYKDT>
+		<CardIsTKEN>0</CardIsTKEN>
+		<CardIsCZN>True</CardIsCZN>
+		<CardPass>40619825</CardPass>
+		<CardAdjust><![CDATA[ [恶魔之斧]
+<デーモンの斧>
+[2010/10/01]
+
+●装备怪兽的攻击力上升1000分。这张卡从场上送去墓地时，可以把自己场上存在的1只怪兽解放回到卡组最上方。
+◇发动时选择场上1只表侧表示怪兽（取对象）
+◇自身回收效果是进入连锁的魔法效果（咒文速度1）
+◇自身回收效果任意发动
+◇发动的场合把自己场上存在的1只怪兽解放（代价）
+◇覆盖在场上的这张卡被送去墓地的场合也可以发动
+◇「魔法干扰阵/マジック·ジャマー」「神之宣告/神の宣告」等把这张卡发动无效并破坏的场合，自身回收效果不能发动
+◇「魔术礼帽/マジカルシルクハット」的效果把这张卡作为怪兽时从场上被送去墓地的场合自身回收也可以效果发动
+◇自身回收效果可以在伤害步骤中发动]]></CardAdjust>
+		<CardLover>0</CardLover>
+		<CardUnion>null</CardUnion>
+		<CardOnceName>恶魔斧</CardOnceName>
+		<CardAbbrName>null</CardAbbrName>
+		<CardEfficeType>19,20</CardEfficeType>
+	</row>
+</table>

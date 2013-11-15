@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:layout_margin="4.0dip"
+	android:layout_above="@+id/layCardBottom"
+	android:layout_below="@+id/layCardTop"
+	>
+	<RelativeLayout
+		android:background="@color/gray"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		>
+		<RelativeLayout
+			android:background="@color/white"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_margin="1.0dip"
+			>
+			<ImageView
+				android:id="@+id/ivImage"
+				android:layout_width="240.0dip"
+				android:layout_height="345.0dip"
+				android:layout_centerInParent="true"
+				>
+			</ImageView>
+			<TextView
+				android:id="@+id/tvNoPic"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/card_nopic"
+				android:layout_centerInParent="true"
+				>
+			</TextView>
+		</RelativeLayout>
+	</RelativeLayout>
+</RelativeLayout>

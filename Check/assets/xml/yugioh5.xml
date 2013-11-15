@@ -1,0 +1,228 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<paper>
+	<profile>
+		<title>游戏王初心者测试</title>
+		<totalTime>60</totalTime>
+		<totalScore>100</totalScore>
+		<subjectCount>10</subjectCount>
+		<passingScore>60</passingScore>
+		<descriptions>收录成为初学者试题 题型:判断</descriptions>
+		<creator>zqhe</creator>
+		<fileId>200005</fileId>
+	</profile>
+	<subjects>
+		<subject>
+			<index>1</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>己方宣言发动攻击，对手发动陷阱卡：攻击力无力化。此时可以连锁陷阱干扰器但无法连锁王宫的通告 。
+			</subjectContent>
+			<analysis> <![CDATA[ <a href="ID:525,1061">卡查搜索:陷阱干扰器,王宫的通告</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 对方发动次元融合，将除外区的3张青眼白龙特殊找场上，此刻可以发动奈落的陷阱将对方的3张青眼白龙全部除外
+			</subjectContent>			
+			<analysis> <![CDATA[ <a href="ID:1061">卡查搜索:奈落</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 地割可以破坏青眼光龙 </subjectContent>
+			<analysis> <![CDATA[ <a href="ID:1561,177">卡查搜索:地割,青眼光龙 </a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+			</answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent> 对方召唤索加的时候，可以用落陷将索加破坏 </subjectContent>
+			<analysis> <![CDATA[ <a href="ID:92">卡查搜索:索加 </a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>对方用过早的埋葬重新召唤沉默的战士LV5，可以用利用破坏后场卡破坏过早埋葬来让沉默战士重新进入墓地
+			</subjectContent>
+			<analysis><![CDATA[ <a href="ID:1505">卡查搜索:沉默的战士LV5 </a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>对方发动波动加农炮效果对自己造成伤害的时候，可以用穿越地狱的冷枪将伤害转移
+			</subjectContent>
+			<analysis>连锁的基本使用方法之一：启动反击陷阱</analysis>
+			<answers>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>当对销魂的死灵发动月之书的效果时候，销魂的死灵会被破坏。 </subjectContent>
+			<analysis><![CDATA[ <a href="ID:704">卡查搜索:销魂的死灵 </a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>对方场上只有4只羊TOKEN，仍然可以用其中的2只作为祭品，将手中的熔岩魔神召唤到对方场上。
+			</subjectContent>
+			<analysis><![CDATA[ <a href="ID:731">卡查搜索:熔岩魔神 </a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>场上有有过早埋葬和生死呼唤复活的怪物。用飓风之后，两张怪物全部重新回到墓地
+			</subjectContent>
+			<analysis><![CDATA[ <a href="ID:128">卡查搜索:过早埋葬</a>  ]]></analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+
+			</answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>2</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>绝対服従魔人、湿度星人召唤时候必须要3个祭品。 </subjectContent>
+			<analysis>星数7以上的怪兽在召唤的时候仅需要牺牲2祭品,湿度星人是可选2个以上祭品来发动效果</analysis>
+			<answers>
+				<answer>
+					<correct>false</correct>
+					<selected>false</selected>
+					<content>A．正确</content>
+				</answer>
+				<answer>
+					<correct>true</correct>
+					<selected>false</selected>
+					<content>B．错误</content>
+				</answer>
+			</answers>
+		</subject>
+	</subjects>
+</paper>
